@@ -43,6 +43,12 @@ To get a local copy up and running, follow these simple steps:
 1. Click the "Tell me a Joke" button.
 2. A random dad joke will be displayed on the screen. Enjoy and share the laughter! 😂
 
+## Responsive Design
+
+This application is designed to be responsive across different devices. Below are screenshots showcasing how the app looks on various screen sizes:
+
+![Responsive Site](assets/responsive.png)
+
 ## Contribution 🤝
 
 Feel free to fork the repository and submit pull requests. Contributions are welcome!  
